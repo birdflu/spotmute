@@ -1,5 +1,5 @@
-Spotify adblock.
-App mutes spotify's adverisement.
+# Spotify Desktop adblock for Linux
+App mutes the volume spotify's adverisement.
 
 ```
 usage: python3 advmute.py [-h] [-o LOG_FILE_NAME]
